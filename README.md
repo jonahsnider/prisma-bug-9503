@@ -1,6 +1,6 @@
 # Prisma bug #9503
 
-prisma/prisma#9503
+https://github.com/prisma/prisma/issues/9503
 
 1. Clone repo
 2. (optional) Run `yarn` to create a local cache - this will make Docker builds marginally faster, especially if the layer cache gets busted
